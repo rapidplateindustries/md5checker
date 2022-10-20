@@ -1,0 +1,5 @@
+G:\Files\Development\rcmd5\rcmd5c\bin\Debug\rcmd5c.exe
+G:\Files\Development\rcmd5\rcmd5c\bin\Debug\rcmd5c.pdb
+G:\Files\Development\rcmd5\rcmd5c\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Files\Development\rcmd5\rcmd5c\obj\x86\Debug\rcmd5c.exe
+G:\Files\Development\rcmd5\rcmd5c\obj\x86\Debug\rcmd5c.pdb
